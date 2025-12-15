@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mahshid Ahmadian 👋
 
-<!--
-**mahshidahmadian/mahshidahmadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Statistician & Data Scientist** | PhD Candidate at Virginia Commonwealth University
 
-Here are some ideas to get you started:
+I build Bayesian predictive models and scalable statistical solutions for complex real-world problems. Currently finishing my PhD while working as a **Virginia Sea Grant Research Fellow**, developing spatiotemporal models for marine ecology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Open to Data Scientist, Statistician, and Research Scientist roles** — available 2025.
+
+---
+
+## 🔭 What I Do
+
+- Develop **Bayesian hierarchical models** and custom MCMC algorithms (Metropolis-Hastings, Gibbs Sampling)
+- Build **production R Shiny applications** that make complex models accessible to non-technical users
+- Optimize large-scale computations using **HPC** and **Rcpp** (R + C++ integration)
+- Apply statistical modeling to **healthcare**, **environmental science**, and **public policy**
+
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahshidahmadian-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahshidahmadian/)
+[![Email](https://img.shields.io/badge/Email-ahmadianm@vcu.edu-red?style=flat-square)](mailto:ahmadianm@vcu.edu)
+
+---
+
+*I'm passionate about turning messy, complex data into actionable insights. If you're looking for someone who can bridge statistical rigor with practical solutions, let's talk.*
