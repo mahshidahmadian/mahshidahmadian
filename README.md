@@ -16,9 +16,9 @@ I build Bayesian predictive models and scalable statistical solutions for comple
 
 ## 📫 Let's Connect
 
+*I'm passionate about turning messy, complex data into actionable insights. If you're looking for someone who can bridge statistical rigor with practical solutions, let's talk.*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahshidahmadian-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahshidahmadian/)
 [![Email](https://img.shields.io/badge/Email-ahmadianm@vcu.edu-red?style=flat-square)](mailto:ahmadianm@vcu.edu)
 
 ---
-
-*I'm passionate about turning messy, complex data into actionable insights. If you're looking for someone who can bridge statistical rigor with practical solutions, let's talk.*
