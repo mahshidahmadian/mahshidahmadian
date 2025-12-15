@@ -4,8 +4,6 @@
 
 I build Bayesian predictive models and scalable statistical solutions for complex real-world problems. Currently finishing my PhD while working as a **Virginia Sea Grant Research Fellow**, developing spatiotemporal models for marine ecology.
 
-🔍 **Open to Data Scientist, Statistician, and Research Scientist roles** — available 2025.
-
 ---
 
 ## 🔭 What I Do
