@@ -6,13 +6,13 @@ I specialize in Probabilistic Machine Learning and Bayesian Inference, building 
 
 ## 🚀 Technical Expertise
 
-Machine Learning: Bayesian Hierarchical Modeling, Probabilistic Models, Predictive Analytics, and Spatiotemporal Forecasting.
+**Machine Learning**: Bayesian Hierarchical Modeling, Probabilistic Models, Predictive Analytics, and Spatiotemporal Forecasting.
 
-Algorithms & Optimization: Custom MCMC implementation (Metropolis-Hastings, Gibbs Sampling), and developing "learning" frameworks for automated inference.
+**Algorithms & Optimization**: Custom MCMC implementation (Metropolis-Hastings, Gibbs Sampling), and developing "learning" frameworks for automated inference.
 
-Performance Engineering: Optimizing large-scale computations using HPC and Rcpp (C++) to handle massive environmental and healthcare datasets.
+**Performance Engineering**: Optimizing large-scale computations using HPC and Rcpp (C++) to handle massive environmental and healthcare datasets.
 
-Deployment: Building Production-grade R Shiny applications to translate complex model outputs into interactive decision-making tools.
+**Deployment**: Building Production-grade R Shiny applications to translate complex model outputs into interactive decision-making tools.
 
 ---
 
