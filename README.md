@@ -10,7 +10,7 @@
 
 - Optimizing large-scale computations using HPC and Rcpp (C++) to handle massive environmental and healthcare datasets.
 
-- Building Production-grade R Shiny applications to translate complex model outputs into interactive decision-making tools.
+- Building R Shiny applications to translate complex model outputs into interactive decision-making tools.
 
 ---
 
