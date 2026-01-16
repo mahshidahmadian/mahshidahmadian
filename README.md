@@ -4,13 +4,13 @@
 
 ## 🚀 Technical Expertise
 
-**Machine Learning**: Bayesian Hierarchical Modeling, Probabilistic Models, Predictive Analytics, and Spatiotemporal Forecasting.
+- Bayesian Hierarchical Modeling, Probabilistic Models, Predictive Analytics, and Spatiotemporal Forecasting.
 
-**Algorithms & Optimization**: Custom MCMC implementation (Metropolis-Hastings, Gibbs Sampling), and developing learning frameworks for automated inference.
+- Custom MCMC implementation (Metropolis-Hastings, Gibbs Sampling), and developing learning frameworks for automated inference.
 
-**Performance Engineering**: Optimizing large-scale computations using HPC and Rcpp (C++) to handle massive environmental and healthcare datasets.
+- Optimizing large-scale computations using HPC and Rcpp (C++) to handle massive environmental and healthcare datasets.
 
-**Deployment**: Building Production-grade R Shiny applications to translate complex model outputs into interactive decision-making tools.
+- Building Production-grade R Shiny applications to translate complex model outputs into interactive decision-making tools.
 
 ---
 
