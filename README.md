@@ -1,18 +1,27 @@
 # Hi, I'm Mahshid Ahmadian 👋
 
-**Statistician & Data Scientist** | PhD Candidate at Virginia Commonwealth University
+**Machine Learning Researcher, Statistician & Data Scientist** | PhD Candidate at Virginia Commonwealth University
 
-I build Bayesian predictive models and scalable statistical solutions for complex real-world problems. Currently finishing my PhD while working as a **Virginia Sea Grant Research Fellow**, developing spatiotemporal models for marine ecology.
+I specialize in Probabilistic Machine Learning and Bayesian Inference, building adaptive models that learn from complex, high-dimensional data. My work bridges the gap between statistical rigor and scalable AI/ML solutions, with a focus on uncertainty quantification and spatiotemporal forecasting.
+
+## 🚀 Technical Expertise
+
+Machine Learning: Bayesian Hierarchical Modeling, Probabilistic Models, Predictive Analytics, and Spatiotemporal Forecasting.
+
+Algorithms & Optimization: Custom MCMC implementation (Metropolis-Hastings, Gibbs Sampling), and developing "learning" frameworks for automated inference.
+
+Performance Engineering: Optimizing large-scale computations using HPC and Rcpp (C++) to handle massive environmental and healthcare datasets.
+
+Deployment: Building Production-grade R Shiny applications to translate complex model outputs into interactive decision-making tools.
 
 ---
 
-## 🔭 What I Do
+## 🔭 Current Focus
 
-- Develop **Bayesian hierarchical models** and custom MCMC algorithms (Metropolis-Hastings, Gibbs Sampling)
-- Build **production R Shiny applications** that make complex models accessible to non-technical users
-- Optimize large-scale computations using **HPC** and **Rcpp** (R + C++ integration)
-- Apply statistical modeling to **healthcare**, **environmental science**, and **public policy**
+- **Advanced Modeling**: Developing a Hybrid MCMC algorithm for Bayesian inference in trajectory imputation—essentially teaching models to "reconstruct" movement paths from noisy data.
+- **Scalability**: Leveraging C++ integration to make statistical learning algorithms run faster and more efficiently.
 
+---
 
 ## 📫 Let's Connect
 
