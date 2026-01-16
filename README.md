@@ -2,13 +2,11 @@
 
 **Machine Learning Researcher, Statistician & Data Scientist** | PhD Candidate at Virginia Commonwealth University
 
-I specialize in Probabilistic Machine Learning and Bayesian Inference, building adaptive models that learn from complex, high-dimensional data. My work bridges the gap between statistical rigor and scalable AI/ML solutions, with a focus on uncertainty quantification and spatiotemporal forecasting.
-
 ## 🚀 Technical Expertise
 
 **Machine Learning**: Bayesian Hierarchical Modeling, Probabilistic Models, Predictive Analytics, and Spatiotemporal Forecasting.
 
-**Algorithms & Optimization**: Custom MCMC implementation (Metropolis-Hastings, Gibbs Sampling), and developing "learning" frameworks for automated inference.
+**Algorithms & Optimization**: Custom MCMC implementation (Metropolis-Hastings, Gibbs Sampling), and developing learning frameworks for automated inference.
 
 **Performance Engineering**: Optimizing large-scale computations using HPC and Rcpp (C++) to handle massive environmental and healthcare datasets.
 
@@ -18,8 +16,7 @@ I specialize in Probabilistic Machine Learning and Bayesian Inference, building 
 
 ## 🔭 Current Focus
 
-- **Advanced Modeling**: Developing a Hybrid MCMC algorithm for Bayesian inference in trajectory imputation—essentially teaching models to "reconstruct" movement paths from noisy data.
-- **Scalability**: Leveraging C++ integration to make statistical learning algorithms run faster and more efficiently.
+- Developing a Hybrid MCMC algorithm for Bayesian inference in trajectory imputation: essentially building and training models to reconstruct movement paths.
 
 ---
 
